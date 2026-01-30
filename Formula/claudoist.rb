@@ -1,8 +1,8 @@
 class Claudoist < Formula
   desc "AI-native customer success workbench CLI"
   homepage "https://github.com/tdiderich/claudoist"
-  url "https://github.com/tdiderich/claudoist/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "d04841b651b97ee8c1c5f9ae35795fc19f2ef500ee5aec2fd8604ee635c0e239"
+  url "https://github.com/tdiderich/claudoist/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "1477ee3690c090879420014ccbb3ca87f04974df1b84a81e63f63f4b4b2219b0"
   head "https://github.com/tdiderich/claudoist.git", branch: "main"
 
   depends_on "node"
